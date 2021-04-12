@@ -1,0 +1,22 @@
+<resources>
+    <string name="applicationName">Lista zakupów SMB testp1</string>
+    <string name="options">Opcje Aplikacji</string>
+    <string name="edit">Edytuj</string>
+    <string name="open_list">Otwórz listę</string>
+    <string name="themeSetting">themeSetting</string>
+    <string name="product">product</string>
+    <string name="goBack">Wróć</string>
+    <string name="add">Dodaj</string>
+    <string name="save">Zapisz zmiany</string>
+    <string name="remove">Usuń</string>
+    <string name="productsListName">productsListName</string>
+    <string name="add_text">Podaj nazwę produktu:</string>
+    <string name="change_title">Zmien tytuł</string>
+    <string name="switch_theme">Zmien motyw:</string>
+    <string name="name_tv">Nazwa:</string>
+    <string name="price_tv">Cena:</string>
+    <string name="amount_tv">Ilość:</string>
+    <string name="name_edit_tv">Wprowadź nową nazwę:</string>
+    <string name="price_edit_tv">Wprowadź nową cenę:</string>
+    <string name="amount_edit_tv">Wprowadź nową ilość:</string>
+</resources>
